@@ -9,7 +9,7 @@
 <p align="center">
   <em>
     I'm Badri Prasad Gautam, a <b>final year</b> undergraduate from <a href="http://www.cwz.wsg.byd.pl/en/homepage.1.html"> <b>University of Economy in Bydgoszcz</b>, Poland</a>. <br>
-    As a <b>Computer Engineer</b> <img src="Developer.gif" width="30px"> who's always eager to learn modern technologies. Familiar with Programming languages, database systems, electronics, robotics, and
+    As a <b>Computer Engineer</b> <img src="Developer.gif" width="30px"> I'm always eager to learn modern technologies. Familiar with Programming languages, database systems, electronics, robotics, and
 networking. Have self-research on some popular tools and framework used in IT markets.
   </em> 
   <br>
